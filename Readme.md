@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/E4914/Default.aspx) (VB: [Default.aspx.vb](./VB/E4914/Default.aspx.vb))
+* [Default.aspx](./CS/E4914/Default.aspx) (VB: [Default.aspx](./VB/E4914/Default.aspx))
 * [Default.aspx.cs](./CS/E4914/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4914/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement the "Find" and "Find Next" searching functionality in ASPxGridView
