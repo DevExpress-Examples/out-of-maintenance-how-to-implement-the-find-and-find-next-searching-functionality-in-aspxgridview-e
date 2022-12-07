@@ -28,7 +28,7 @@ namespace E4914 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txSearch;
+        protected global::DevExpress.Web.ASPxTextBox txSearch;
         
         /// <summary>
         /// btFind control.
@@ -37,7 +37,7 @@ namespace E4914 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btFind;
+        protected global::DevExpress.Web.ASPxButton btFind;
         
         /// <summary>
         /// dvProducts control.
@@ -46,7 +46,7 @@ namespace E4914 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView dvProducts;
+        protected global::DevExpress.Web.ASPxGridView dvProducts;
         
         /// <summary>
         /// dsProducts control.

@@ -31,7 +31,7 @@ Namespace E4914
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected txSearch As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected txSearch As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' btFind control.
@@ -40,7 +40,7 @@ Namespace E4914
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btFind As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btFind As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' dvProducts control.
@@ -49,7 +49,7 @@ Namespace E4914
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dvProducts As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected dvProducts As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' dsProducts control.

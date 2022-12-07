@@ -5,7 +5,7 @@ Imports System.Linq
 Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Collections.ObjectModel
 
 Namespace E4914
